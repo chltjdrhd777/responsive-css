@@ -1,2 +1,2 @@
 # responsive-css
-asdfasdfasdf
+- media query practice
